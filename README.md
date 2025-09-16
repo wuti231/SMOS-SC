@@ -1,2 +1,1 @@
-# SMOS-SC
-Z XCZ
+
