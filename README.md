@@ -7,9 +7,7 @@ Bai, Y., Zhao, T., Jia, L., et al. (2022). A multi-temporal and multi-angular ap
 
 DCT_PLS_SM Executable
 
-================================
 (1) Prerequisites for Deployment 
-================================
 
 Verify that MATLAB Runtime(R2024b) is installed.   
 If not, you can run the MATLAB Runtime installer.
@@ -31,9 +29,9 @@ in the MathWorks Documentation Center.
 
 
 
-================================
+
 (2) MATLAB calling method 
-================================
+
 The  SMOS-SC soil moisture product can be obtained from the SMOS_SM product (Bai, et al, 2022) by “DCT_PLS_SM.exe” .
 
 For example, the input data (SMOS_SM product) is a long time series three-dimensional array (M * N * D, where M represents rows, N represents columns, and D represents the number of consecutive days), then users can call the executable program with the following command:
