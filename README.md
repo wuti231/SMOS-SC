@@ -1,6 +1,7 @@
 Referene:
 
 Bai, Y., Jia, L., Zhao, T., Peng, Z. (2025). SMOS gap-free daily soil moisture product using MTMA (2010-2020). National Tibetan Plateau / Third Pole Environment Data Center.
+
 Bai, Y., Zhao, T., Jia, L., et al. (2022). A multi-temporal and multi-angular approach for systematically retrieving soil moisture and vegetation optical depth from SMOS data. Remote Sensing of Environment. 280, 113190.
 
 
